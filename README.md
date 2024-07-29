@@ -1,7 +1,8 @@
 # Data-Visualization
 
 Language: Python, Project Jupyter
-libraries: pandas, seaborn, matplotlib, numpy, plotly, dash
+
+Libraries: pandas, seaborn, matplotlib, numpy, plotly, dash
 
 Explored libraries in python and jupyter notbooks for data visualization and analysis.
 
